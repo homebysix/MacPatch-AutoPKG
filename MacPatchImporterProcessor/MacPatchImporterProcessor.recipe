@@ -17,6 +17,6 @@ To use this processor, set the 'Processor' key in your recipe to 'gov.llnl.autop
     <string>0.4.0</string>
 
     <key>Process</key>
-    <dict/>
+    <array/>
 </dict>
 </plist>
